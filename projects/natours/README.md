@@ -9,5 +9,6 @@
 - Position a logo and titles with absolute positioning and translate
 - Reshape words with letter-spacing
 - Put css animations on header with keyframes(opacity, transform)
+- Create a white button with transition animations and box shadow(shadow direction, blur effect)
 
 [Check Demo](https://wwdbsh.github.io/css-projects/projects/natours)
